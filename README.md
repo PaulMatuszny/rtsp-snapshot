@@ -1,5 +1,6 @@
 # Short Description
-This script is made to downloading and saving an images/snapshots from camera's RTSP stream to local folder on LINUX (for example in /var/www/html/snapshots) which is an alternative for HTTP camera streams.
+This script is made to downloading and saving an images/snapshots from camera's RTSP stream to local folder on LINUX (for example in /var/www/html/snapshots) which is an alternative for HTTP camera streams. 
+You can use this in DOMOTICZ for example.
 1 snapshot every 1 second!
 
 The script is created and tested on Raspberry Pi 3 (Raspbian). 
